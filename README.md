@@ -1,4 +1,5 @@
 # TW-Stock-ML-Trading-Strategies-with-News-Sentiment-and-Investor-Sentiment
+### 開啟順序
 1. 樣本內 ROLLING模型
 2. 樣本外 ROLLING模型
 3. 新聞情緒建置
